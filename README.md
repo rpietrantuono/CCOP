@@ -3,7 +3,7 @@
 
 This repository contains the material of the following work: 
 
-"Roberto Pietrantuono, Automated Hypotheses Generation via Combinatorial Causal Optimization, submitted for review to the 2021 IEEE Congress on Evolutionary Computation."
+R. Pietrantuono, "Automated Hypotheses Generation via Combinatorial Causal Optimization," 2021 IEEE Congress on Evolutionary Computation (CEC), 2021, pp. 399-407, doi: 10.1109/CEC45853.2021.9504816.
 
 ## Description
 The repository contains the artefacts required to run four MOEAs (csNSGA-II, csOMOPSO, csSMSEMOA, csSPEA2) implemented to solve Combinatorial Causal Optimization Problem (CCOP)  defined in the above-mentioned work, on four real-world benchmarks. The code is based on the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment MOEAs; therefore, beside allowing for replicating the results of the paper, it allows to easily implement new MOEAs exploiting the jMetal facilities. 
