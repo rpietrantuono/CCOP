@@ -1,0 +1,561 @@
+Run: 0
+Solution: [48, 51, 64, 43, 17, 40, 57, 14, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.013097199341021418: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [10, 5, 42, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 8.237232289950577E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [49, 65, 41, 57, 39, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01518004236290892: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [2, 27, 6, 66]: Size: 4: Min Abs Distance: 0.19999999999999996: Avg Frequency: 0.2944810543657331: Closest Item: [2, 6, 21, 27, 66]: Intersections: 4
+Solution: [19, 65, 1, 15, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019055464030752332: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [55, 17, 46, 19, 10, 13, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.01599395936298737: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 18, 41, 14, 25, 20, 15, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.01174568308011471: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [46, 65, 32, 1, 9, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.018945634266886325: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 12, 49, 17, 57, 13, 44, 42, 38, 62, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.005766062602965403: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [19, 65, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 49, 45, 61, 23, 56, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.0360722130697419: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 65, 39, 17, 14, 1, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.018788734604220602: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 25, 28, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06541735310269083: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [2, 12, 23, 67]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.0912959912136189: Closest Item: [2, 12, 23, 27]: Intersections: 3
+Solution: [49, 12, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 48, 59, 33, 14, 5, 1, 62, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.015498200012203305: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 55, 23, 42, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.04068277503203368: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [45, 31, 20, 34, 12, 11, 1, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.02985996705107084: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 42, 29, 1, 12, 33, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.020985329881540758: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 1
+Solution: [51, 48, 32, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.008511806699615595: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [5, 47, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.025054914881933003: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [13, 53, 32, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.022789676002196595: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [60, 65, 52, 62, 57, 51, 39, 1, 17, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.013316858868753435: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 65, 48, 23, 5, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.04123192385136372: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [15, 5, 19, 1, 10, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016428702178290316: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [31, 65, 51, 52, 49, 1, 13, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.019666392092257002: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [41, 10, 17, 1, 14, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.02008315682121284: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 41, 58, 1, 57, 39, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01518004236290892: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 53, 1, 23, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.04892915980230643: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 26, 64, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.10392641405820978: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 47, 60, 54, 46, 34, 1, 15, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.012966013789737017: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 50, 62, 40, 1, 9, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.016749038989566176: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 48, 58, 52, 49, 20, 1, 12, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.014796509854170482: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 4, 3, 7, 66]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.17825370675453048: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [65, 33, 20, 50, 19, 52, 1, 40, 8, 17, 35, 67]: Size: 12: Min Abs Distance: 0.8666666666666667: Avg Frequency: 0.012653304045396304: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [3, 7, 15, 27, 66]: Size: 5: Min Abs Distance: 0.19999999999999996: Avg Frequency: 0.23108182317408016: Closest Item: [3, 7, 27, 66]: Intersections: 4
+Run: 2
+Solution: [25, 59, 34, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.0013042284459088413: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [9, 1, 43, 59, 47, 17, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.014081744724248843: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 34, 43, 65, 55, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016565989383122825: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [18, 1, 35, 51, 65, 62, 8, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.022549423393739703: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 52, 1, 13, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.0228445908841296: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [30, 44, 12, 54, 65, 41, 38, 9, 42, 5, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.005416604263391743: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [25, 14, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.02416254805052169: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [8, 1, 14, 41, 47, 45, 10, 33, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.017816828360485693: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.04578528281164196: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [3, 28, 50, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.17078528281164196: Closest Item: [3, 6, 28, 66]: Intersections: 3
+Solution: [32, 65, 54, 50, 14, 1, 12, 31, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.01586429922509: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [10, 8, 25, 41, 65, 1, 52, 48, 13, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.017490389895661727: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 11, 1, 12, 40, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.037433644517664295: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 7, 5, 12, 49, 23, 67]: Size: 7: Min Abs Distance: 0.5: Avg Frequency: 0.06766297952459402: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [5, 65, 58, 16, 1, 12, 32, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.018911312465678197: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 26, 22, 67]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.2116968698517298: Closest Item: [1, 12, 22, 26]: Intersections: 3
+Run: 3
+Solution: [58, 39, 14, 31, 65, 70]: Size: 6: Min Abs Distance: 1.0: Avg Frequency: 0.0017389712612117883: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [1, 59, 32, 65, 17, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016062602965403624: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [49, 50, 65, 14, 48, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.013650270651918098: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 65, 44, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 65, 5, 45, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01971444261394838: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [57, 65, 17, 29, 1, 35, 23, 39, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.028738788211605342: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 23, 4, 8, 12, 67]: Size: 7: Min Abs Distance: 0.5: Avg Frequency: 0.06683925629559896: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 58, 51, 1, 44, 33, 15, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.016474464579901156: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [3, 27, 23, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.2784870950027457: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [1, 12, 20, 5, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.026908292147171886: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 34, 42, 25, 9, 5, 14, 8, 52, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.01437771454245919: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 62, 65, 12, 33, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.022652388797364087: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [8, 65, 64, 31, 19, 45, 1, 5, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.01775581182500458: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [55, 62, 65, 17, 18, 50, 25, 1, 15, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.009747391543108181: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 12, 6, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.15739978034047225: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 17, 1, 48, 14, 46, 23, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.032502745744096645: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 12, 3, 7, 66]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.15079626578802857: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [65, 40, 61, 1, 46, 48, 10, 14, 12, 16, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.01672407767959663: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 4
+Solution: [10, 20, 62, 49, 13, 43, 69]: Size: 7: Min Abs Distance: 1.0: Avg Frequency: 0.002588844433984467: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [39, 13, 62, 9, 1, 43, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.016435239664234724: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [33, 47, 49, 65, 52, 24, 38, 42, 1, 18, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.009959562677849334: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 32, 24, 56, 46, 52, 1, 13, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.017938861431447923: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [24, 35, 65, 8, 1, 14, 13, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.021348160351455245: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 53, 1, 42, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01916529379461834: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 50, 18, 1, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.021874427969979866: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 48, 43, 25, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016062602965403624: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [8, 65, 44, 51, 10, 16, 1, 13, 12, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.02473915431081823: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [59, 65, 62, 57, 8, 53, 15, 10, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.014936847885777047: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 15, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 20, 23, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06102416254805052: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 24, 15, 5, 1, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.020240056483878558: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [4, 3, 27, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.275604063701263: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [65, 55, 61, 49, 17, 37, 58, 41, 1, 48, 12, 67]: Size: 12: Min Abs Distance: 0.7857142857142857: Avg Frequency: 0.014392275306608094: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 53, 43, 61, 47, 39, 1, 17, 42, 12, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.014053217512855076: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 5
+Solution: [45, 14, 9, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 4.8050521691378364E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [1, 50, 43, 65, 46, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.01848801025077796: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [59, 5, 17, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01971444261394838: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 58, 20, 9, 10, 13, 1, 5, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.013027030325218134: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 17, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [8, 24, 1, 12, 17, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.031484532308255535: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 17, 49, 15, 5, 62, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.014238644386914568: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 15, 53, 44, 10, 1, 13, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.014106260296540362: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [38, 1, 23, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06102416254805052: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 52, 35, 44, 48, 8, 1, 17, 9, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.01499176276771005: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 45, 9, 32, 1, 24, 12, 15, 37, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.015238879736408566: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 13, 45, 40, 32, 1, 34, 24, 14, 51, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.014352753232489641: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 12, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [21, 27, 4, 6, 66]: Size: 5: Min Abs Distance: 0.19999999999999996: Avg Frequency: 0.29500274574409663: Closest Item: [4, 6, 21, 27]: Intersections: 4
+Solution: [2, 12, 6, 65, 66]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.15529928610653487: Closest Item: [2, 6, 28, 66]: Intersections: 3
+Solution: [65, 50, 62, 59, 20, 12, 5, 17, 1, 14, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.012355848434925865: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 16, 63, 1, 56, 40, 23, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.03542009884678748: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [11, 1, 10, 40, 5, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.032556680003138: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 6
+Solution: [42, 64, 57, 69]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 6.177924217462933E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [5, 1, 34, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.025672707303679296: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [40, 45, 30, 47, 46, 31, 1, 12, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.01787784489596681: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [33, 5, 58, 47, 1, 14, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01486624303757747: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [57, 65, 51, 50, 60, 15, 1, 10, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.014460918909024345: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [14, 33, 1, 8, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.0299286106534871: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [19, 64, 65, 13, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.018808347062053817: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 55, 63, 20, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.018788734604220602: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [46, 40, 65, 56, 10, 1, 18, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.0167833607907743: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 15, 50, 46, 1, 13, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.02049011532125206: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 38, 52, 59, 60, 33, 12, 8, 1, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.018725974739154314: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 1, 23, 7, 67]: Size: 5: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.09406919275123557: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 55, 23, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.04881933003844042: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 10, 23, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06102416254805052: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [48, 38, 65, 47, 52, 34, 8, 10, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.015348709500274577: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [2, 26, 6, 67]: Size: 4: Min Abs Distance: 0.25: Avg Frequency: 0.24965678198791874: Closest Item: [2, 6, 26]: Intersections: 3
+Solution: [12, 16, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.03672432729269632: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 7
+Solution: [35, 43, 15, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 1.372872048325096E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 46, 1, 55, 10, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.01848801025077796: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [47, 1, 20, 9, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01971444261394838: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [43, 39, 44, 65, 53, 1, 18, 5, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.011013484654341326: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [24, 12, 23, 32, 11, 1, 8, 67]: Size: 8: Min Abs Distance: 0.5555555555555556: Avg Frequency: 0.054022515101592526: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 12, 25, 20, 14, 1, 13, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.018705381658429436: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 25, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.024093904448105437: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [25, 12, 64, 48, 23, 47, 19, 18, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.02172188663127708: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 59, 18, 44, 13, 10, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.014037616694124108: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 46, 52, 43, 54, 20, 32, 47, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.011559582646897309: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 12, 28, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0651427786930258: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [65, 23, 23, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.07626304228445908: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [43, 35, 59, 33, 41, 34, 20, 12, 1, 13, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.015051669911636966: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [2, 12, 3, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.18417078528281164: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [65, 48, 45, 50, 8, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.02082843021887503: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 40, 54, 55, 18, 59, 25, 32, 1, 5, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.009160800758823822: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [44, 51, 65, 49, 8, 11, 12, 1, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.03423027640490573: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 38, 1, 19, 12, 11, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.03451792578645956: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [45, 25, 12, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.026468973091707853: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [20, 49, 55, 52, 12, 65, 1, 32, 9, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.013591433278418451: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 8
+Solution: [48, 1, 42, 19, 65, 12, 38, 9, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.014766001586429925: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [64, 52, 48, 69]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 6.177924217462933E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [19, 8, 60, 18, 1, 24, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.023613399231191653: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 65, 38, 52, 14, 24, 10, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.01307660626029654: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [57, 53, 14, 35, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016428702178290316: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 18, 44, 40, 35, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01368949556758453: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 31, 46, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.024217462932454695: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [55, 65, 19, 41, 32, 34, 35, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.012233815363963634: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [40, 52, 65, 32, 12, 42, 41, 51, 50, 1, 60, 67]: Size: 12: Min Abs Distance: 0.7857142857142857: Avg Frequency: 0.01468973091707853: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 24, 51, 1, 5, 13, 31, 52, 56, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.01911037891268534: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 55, 49, 12, 25, 33, 20, 15, 8, 1, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.01694872946932255: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 50, 42, 60, 32, 29, 41, 59, 48, 39, 1, 67]: Size: 12: Min Abs Distance: 0.8666666666666667: Avg Frequency: 0.009793153944719019: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 14, 63, 18, 59, 32, 29, 1, 12, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.014497528830313014: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [41, 48, 49, 16, 1, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.02227975209853299: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 12, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 5, 52, 23, 49, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.041552260662639576: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [18, 51, 65, 39, 20, 33, 63, 52, 42, 1, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.012181119265139035: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Run: 9
+Solution: [56, 38, 55, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.005834706205381658: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [18, 41, 65, 57, 9, 52, 50, 40, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.010982976386600769: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [51, 32, 49, 64, 50, 65, 45, 5, 1, 35, 63, 17, 67]: Size: 13: Min Abs Distance: 0.875: Avg Frequency: 0.010307100916656108: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [40, 64, 35, 1, 12, 8, 11, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.034527732015376164: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [15, 1, 62, 50, 49, 35, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.013846395230250256: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 33, 10, 8, 25, 48, 40, 1, 12, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.018643602416254804: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 2, 4, 6, 66]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.17896760021965952: Closest Item: [2, 6, 28, 66]: Intersections: 3
+Solution: [65, 50, 25, 1, 9, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016337177375068644: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 35, 26, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.10392641405820977: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [55, 25, 39, 24, 57, 47, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.013385502471169687: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 52, 45, 55, 51, 1, 41, 20, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.01546769174446275: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 59, 52, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01943986820428336: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [31, 12, 54, 65, 25, 48, 10, 1, 32, 58, 16, 67]: Size: 12: Min Abs Distance: 0.7857142857142857: Avg Frequency: 0.013271096467142597: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [25, 65, 60, 12, 56, 1, 10, 13, 31, 38, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.016624232439718438: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [57, 62, 65, 58, 46, 49, 1, 31, 55, 19, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.011282512106235335: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [12, 47, 7, 66]: Size: 4: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.0742723778143877: Closest Item: [3, 7, 27, 66]: Intersections: 2
+Solution: [5, 65, 1, 13, 23, 19, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.037773593786773356: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [61, 65, 12, 23, 15, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.03555738605161999: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 63, 48, 54, 1, 43, 13, 23, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.029043870889010923: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [31, 51, 43, 1, 4, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.04452027928139955: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [3, 6, 26, 23, 11, 66]: Size: 6: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.26468973091707854: Closest Item: [3, 6, 23, 26]: Intersections: 4
+Solution: [18, 65, 55, 39, 30, 1, 5, 9, 12, 19, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.01258050022465179: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 10
+Solution: [41, 31, 17, 69]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.004805052169137836: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [9, 1, 48, 34, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.020208676551345416: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 47, 65, 8, 9, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.02484898407468424: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [12, 29, 65, 56, 62, 58, 8, 50, 15, 67]: Size: 10: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.013042284459088413: Closest Item: [2, 12, 21, 29]: Intersections: 2
+Solution: [65, 40, 1, 5, 12, 8, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.02643759315917471: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 32, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.024093904448105437: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 49, 25, 13, 1, 5, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01667058915823331: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 31, 42, 17, 44, 1, 9, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.013385502471169687: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [39, 14, 35, 47, 8, 1, 12, 9, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.020654097260357558: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [38, 65, 47, 9, 19, 32, 12, 39, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.005308438586857038: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [17, 1, 12, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 65, 44, 12, 11, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.03743364451766429: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [2, 27, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.17641405820977485: Closest Item: [2, 6, 22, 27, 67]: Intersections: 3
+Solution: [1, 4, 6, 12, 67]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.15337726523887973: Closest Item: [4, 6, 22, 67]: Intersections: 3
+Solution: [65, 12, 23, 5, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.039099395936298735: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 11
+Solution: [64, 17, 10, 59, 51, 70]: Size: 6: Min Abs Distance: 1.0: Avg Frequency: 0.005583012996522058: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [56, 57, 1, 13, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.02751235584843493: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [38, 1, 51, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.032056562328391: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [34, 15, 8, 41, 35, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.022789676002196595: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [42, 21, 2, 12, 28, 66]: Size: 6: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.12772286289584478: Closest Item: [2, 12, 21, 28]: Intersections: 4
+Solution: [35, 49, 65, 10, 41, 15, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.013110928061504669: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 42, 24, 14, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.017115138202452865: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [64, 65, 62, 12, 53, 23, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.027771240291833373: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 31, 58, 57, 1, 5, 14, 8, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.017938861431447923: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 58, 1, 5, 12, 9, 14, 35, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.015223625602538291: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 50, 12, 51, 17, 14, 41, 5, 38, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.008896210873146623: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 48, 54, 5, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.022423576789309906: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [17, 38, 65, 11, 33, 1, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.028521416803953873: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 15, 12, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [57, 61, 53, 52, 42, 1, 12, 10, 17, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.015678198791872596: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 12
+Solution: [42, 49, 24, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.0017847336628226248: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [49, 65, 25, 15, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016062602965403624: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 13, 8, 47, 50, 1, 5, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.020970620538165844: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 35, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023956617243272926: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 54, 20, 43, 1, 56, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.016945163567898328: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 20, 1, 35, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01916529379461834: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 23, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06102416254805052: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [5, 1, 17, 23, 38, 33, 12, 67]: Size: 8: Min Abs Distance: 0.5555555555555556: Avg Frequency: 0.03586628226249313: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [14, 65, 16, 1, 23, 10, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.03714599513611045: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 34, 18, 20, 17, 14, 1, 25, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.011196534260784673: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [17, 57, 49, 20, 1, 16, 13, 23, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.030965891756666055: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 34, 36, 12, 51, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.03839465495149185: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [3, 4, 6, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.2908429434376716: Closest Item: [3, 6, 22, 66]: Intersections: 3
+Solution: [65, 15, 39, 13, 44, 1, 20, 5, 12, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.015156507413509063: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [10, 65, 35, 52, 18, 15, 20, 5, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.010104338275672708: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [2, 4, 11, 6, 67]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.18187808896210872: Closest Item: [4, 6, 22, 67]: Intersections: 3
+Run: 13
+Solution: [62, 50, 8, 5, 40, 69]: Size: 6: Min Abs Distance: 1.0: Avg Frequency: 0.009152480322167306: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [1, 41, 34, 12, 47, 38, 30, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.0185337726523888: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [55, 1, 5, 15, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01971444261394838: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [48, 33, 9, 17, 55, 1, 5, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.012973640856672158: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 45, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [42, 33, 8, 24, 9, 10, 13, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.019464274818475808: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [42, 58, 63, 10, 65, 1, 39, 45, 44, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.009555189456342669: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [11, 55, 1, 34, 12, 10, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.03267435475013729: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 34, 18, 50, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016565989383122825: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 29, 65, 12, 51, 20, 38, 44, 15, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.017627677100494236: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 54, 8, 52, 1, 34, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.02169137836353652: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [2, 1, 26, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.14703459637561778: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [60, 49, 1, 59, 17, 31, 25, 38, 13, 10, 15, 67]: Size: 12: Min Abs Distance: 0.8666666666666667: Avg Frequency: 0.010296540362438222: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 43, 12, 9, 51, 13, 15, 23, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.02709134175361523: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 40, 54, 60, 53, 29, 14, 18, 9, 1, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.009984523987818881: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [42, 64, 62, 19, 36, 46, 10, 33, 1, 24, 12, 67]: Size: 12: Min Abs Distance: 0.7857142857142857: Avg Frequency: 0.018442247849167127: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [15, 1, 12, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 14
+Solution: [14, 33, 40, 43, 25, 5, 18, 70]: Size: 8: Min Abs Distance: 1.0: Avg Frequency: 0.001029654036243822: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 51, 64, 49, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.021462566355482337: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 60, 41, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.026084568918176825: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 8, 51, 46, 1, 54, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.027771240291833373: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 9, 17, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019384953322350358: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [9, 65, 1, 60, 12, 16, 38, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.018568094453596928: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [44, 65, 38, 62, 59, 49, 45, 40, 17, 1, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.008761419799311068: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 35, 39, 15, 55, 62, 51, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.01443041064128379: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [40, 56, 18, 50, 44, 35, 8, 14, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.016996155958264692: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 35, 57, 55, 20, 53, 23, 19, 18, 12, 16, 67]: Size: 12: Min Abs Distance: 0.7857142857142857: Avg Frequency: 0.017572762218561234: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 23, 10, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.04881933003844042: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [35, 1, 62, 9, 14, 5, 10, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.012767710049423394: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [3, 16, 4, 6, 22, 66]: Size: 6: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.2684422478491671: Closest Item: [3, 6, 22, 66]: Intersections: 4
+Solution: [52, 16, 13, 1, 5, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.024162548050521693: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 38, 12, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.02624931356397584: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [25, 60, 50, 65, 35, 12, 1, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.016611751784733664: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [41, 37, 45, 48, 33, 14, 12, 1, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.017267679541155653: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 4, 12, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.05370675453047776: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [63, 44, 39, 24, 25, 52, 38, 12, 1, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.014168039538714993: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [2, 65, 6, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.1851317957166392: Closest Item: [2, 6, 28, 66]: Intersections: 3
+Run: 15
+Solution: [40, 59, 52, 69]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 4.8050521691378364E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [48, 31, 39, 1, 55, 19, 41, 9, 57, 12, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.01400329489291598: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 55, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [32, 12, 17, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.026468973091707853: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [15, 12, 28, 48, 66]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.05211422295442064: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [65, 10, 43, 56, 5, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.017415862555895504: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 15, 5, 8, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.02484898407468424: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [13, 14, 65, 20, 49, 15, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.014071938495332234: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [59, 65, 13, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.022460186710598573: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [32, 17, 65, 57, 1, 43, 19, 53, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.010982976386600767: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 18, 61, 54, 60, 63, 1, 12, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.01696259686375008: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [33, 65, 1, 45, 42, 12, 64, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.016920647995606813: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 8, 1, 15, 12, 9, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.02620224366517612: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 40, 31, 16, 24, 10, 20, 1, 35, 5, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.013553991313464133: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 31, 45, 59, 47, 15, 9, 1, 33, 29, 10, 67]: Size: 12: Min Abs Distance: 0.8666666666666667: Avg Frequency: 0.010365183964854476: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [23, 49, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06102416254805052: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 3, 23, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.16913783635365184: Closest Item: [3, 6, 23, 66]: Intersections: 3
+Run: 16
+Solution: [35, 43, 50, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 1.372872048325096E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [3, 6, 4, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.2908429434376716: Closest Item: [3, 6, 22, 66]: Intersections: 3
+Solution: [3, 22, 6, 13, 68]: Size: 5: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.28132894014277865: Closest Item: [3, 6, 22, 27, 68]: Intersections: 4
+Solution: [10, 65, 55, 31, 19, 59, 15, 1, 24, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.011257550796265788: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 39, 43, 24, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.017069375800842026: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 47, 5, 43, 8, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.021534478700870795: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [33, 32, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.024986271279516747: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 47, 15, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019384953322350358: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 65, 56, 59, 45, 13, 18, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.016954969796814937: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [34, 48, 65, 50, 56, 1, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.01983800109829764: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [48, 50, 44, 5, 65, 1, 8, 13, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.018457501983037403: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [12, 65, 5, 44, 19, 53, 20, 36, 24, 57, 48, 34, 67]: Size: 13: Min Abs Distance: 0.875: Avg Frequency: 0.009420014362353736: Closest Item: [2, 12, 22, 28, 36]: Intersections: 2
+Solution: [8, 12, 28, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.07777320153761669: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [65, 61, 24, 19, 1, 23, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.03891111634109986: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [54, 65, 17, 53, 24, 34, 25, 12, 1, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.014415156507413509: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 1, 12, 5, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.030313014827018127: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 17
+Solution: [47, 18, 51, 8, 41, 56, 62, 69]: Size: 8: Min Abs Distance: 1.0: Avg Frequency: 0.014827018121911038: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 48, 31, 32, 51, 8, 24, 19, 14, 1, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.01794718186810444: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 44, 49, 48, 50, 56, 46, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.014918542925132712: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [41, 65, 20, 5, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.017938861431447923: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 62, 64, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019384953322350358: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 18, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [12, 29, 22, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.13721856123009335: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [12, 26, 17, 11, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.09132344865458539: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 1, 13, 10, 51, 34, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.021338354122538643: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [19, 50, 44, 47, 24, 18, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.013007962657880285: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 18, 5, 12, 9, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.022698151198974923: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [32, 8, 40, 47, 57, 65, 10, 1, 12, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.018643602416254804: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 2, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.06706479956068094: Closest Item: [2, 6, 22, 27, 67]: Intersections: 2
+Solution: [65, 24, 62, 51, 8, 1, 5, 12, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.025138812618219538: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [9, 59, 65, 64, 1, 12, 16, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.018636738056013184: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [2, 6, 4, 21, 14, 66]: Size: 6: Min Abs Distance: 0.4285714285714286: Avg Frequency: 0.20181219110378912: Closest Item: [2, 6, 21, 27, 66]: Intersections: 4
+Solution: [48, 1, 12, 11, 2, 14, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.05683690280065897: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [39, 65, 49, 52, 60, 8, 9, 14, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.01496430532674355: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [23, 1, 2, 6, 67]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.18308621636463482: Closest Item: [2, 6, 23, 26]: Intersections: 3
+Run: 18
+Solution: [40, 20, 31, 47, 69]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 0.0023613399231191654: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [41, 65, 1, 19, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.02086765513454146: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 65, 49, 35, 62, 25, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01400329489291598: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 35, 13, 8, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.027228628958447743: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [14, 65, 62, 43, 8, 13, 31, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.019372750015254136: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 18, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [2, 12, 25, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06981054365733114: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [32, 54, 33, 1, 23, 65, 63, 8, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.03328452010494844: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 55, 64, 1, 59, 9, 42, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.012184239428885227: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [8, 1, 31, 25, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.03217096833241808: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [3, 6, 11, 28, 23, 66]: Size: 6: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.23727805235218744: Closest Item: [3, 6, 28, 66]: Intersections: 4
+Solution: [65, 12, 60, 8, 5, 1, 25, 13, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.02257611812801269: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [35, 46, 54, 58, 18, 14, 1, 5, 15, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.011504667764964305: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 31, 9, 65, 43, 51, 42, 23, 14, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.028912685337726524: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 45, 13, 23, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.05222405271828665: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 12, 23, 57, 4, 67]: Size: 6: Min Abs Distance: 0.4285714285714286: Avg Frequency: 0.06987918725974739: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Run: 19
+Solution: [38, 47, 64, 1, 34, 25, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.014670118459245313: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [32, 41, 38, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.0025398132894014274: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 13, 1, 35, 10, 49, 54, 5, 39, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.011614497528830313: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [19, 58, 1, 8, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.029159802306425044: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [5, 65, 1, 18, 9, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016703276587955337: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 55, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [9, 17, 63, 65, 47, 13, 12, 15, 33, 58, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.006140482252508611: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [32, 1, 12, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.03308621636463482: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [18, 46, 65, 1, 12, 17, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.020985329881540754: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [58, 5, 1, 8, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.030843858685703825: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 57, 25, 19, 31, 44, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.013557111477210324: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [46, 59, 44, 8, 1, 11, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.036346787479406915: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 37, 1, 12, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.028500823723229003: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [6, 28, 21, 66]: Size: 4: Min Abs Distance: 0.19999999999999996: Avg Frequency: 0.2639346512904997: Closest Item: [3, 6, 21, 28, 66]: Intersections: 4
+Solution: [23, 39, 59, 54, 57, 15, 10, 20, 46, 12, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.019070440816734063: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 12, 2, 22, 66]: Size: 5: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.14195496979681493: Closest Item: [2, 12, 22, 28, 66]: Intersections: 4
+Solution: [52, 9, 31, 5, 20, 12, 10, 1, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.016474464579901156: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 54, 14, 18, 15, 17, 57, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.01083043504789798: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 48, 59, 38, 12, 14, 1, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.016440142778693028: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 20
+Solution: [65, 44, 60, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 0.0: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 32, 5, 10, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016611751784733664: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [52, 37, 1, 14, 13, 10, 8, 12, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.0235828909634511: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 62, 31, 5, 38, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.015689966266572528: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 56, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.029654036243822075: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 57, 56, 15, 20, 1, 8, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.021382482152663373: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [62, 60, 65, 10, 5, 1, 8, 13, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.018579535053999636: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [35, 65, 49, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01916529379461834: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [2, 3, 7, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.22274848984074685: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [50, 65, 48, 18, 42, 13, 19, 1, 14, 9, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.010383904947331636: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 50, 20, 44, 15, 19, 1, 14, 9, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.00971993410214168: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [23, 12, 1, 67]: Size: 4: Min Abs Distance: 0.19999999999999996: Avg Frequency: 0.0700164744645799: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 53, 55, 45, 1, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.01882795951988703: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [19, 59, 44, 1, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.021874427969979866: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [23, 30, 65, 17, 56, 14, 19, 1, 15, 9, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.024686735559882187: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 60, 12, 40, 11, 18, 1, 13, 9, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.024327292696320706: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 12, 8, 5, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.0370126304228446: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 23, 6, 2, 67]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.1727073036792971: Closest Item: [2, 6, 23, 26]: Intersections: 3
+Solution: [65, 18, 55, 15, 25, 1, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.01654310818231741: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 21
+Solution: [8, 39, 59, 14, 70]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 0.01015925315760571: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 11, 64, 1, 9, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.03239978034047227: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 39, 1, 10, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019055464030752332: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 15, 44, 1, 23, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.04068277503203368: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [33, 24, 9, 1, 8, 10, 17, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.019769357495881386: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 54, 44, 35, 10, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.01368949556758453: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [48, 65, 49, 5, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016428702178290316: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [25, 48, 10, 65, 43, 42, 1, 17, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.01070840197693575: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [41, 65, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.026084568918176825: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [25, 45, 18, 9, 32, 46, 14, 1, 19, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.011504667764964307: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [24, 65, 12, 41, 31, 1, 17, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.01970071389346513: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [2, 6, 7, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.23270181219110378: Closest Item: [2, 6, 28, 66]: Intersections: 3
+Solution: [52, 65, 63, 8, 1, 12, 32, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.02313289401427787: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 43, 35, 49, 38, 12, 1, 15, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.014643968515467695: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 34, 23, 26, 67]: Size: 5: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.11361889071938495: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 1, 26, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.10378912685337727: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 23, 9, 13, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.05255354200988467: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 22
+Solution: [1, 8, 59, 38, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.029159802306425044: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [37, 54, 44, 62, 35, 19, 12, 8, 23, 67]: Size: 10: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.02556287753981329: Closest Item: [2, 12, 23, 37]: Intersections: 3
+Solution: [39, 42, 33, 70]: Size: 4: Min Abs Distance: 1.0: Avg Frequency: 8.923668314113124E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [56, 1, 65, 26, 33, 12, 15, 67]: Size: 8: Min Abs Distance: 0.5555555555555556: Avg Frequency: 0.059754255903349804: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [20, 13, 1, 12, 26, 67]: Size: 6: Min Abs Distance: 0.4285714285714286: Avg Frequency: 0.0780248947464763: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 1, 59, 32, 19, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016062602965403624: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 46, 54, 39, 51, 41, 59, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.019117243272926965: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [5, 65, 51, 18, 60, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.018788734604220602: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 56, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.029654036243822075: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [9, 57, 65, 50, 40, 37, 35, 12, 1, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.014662273476112028: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [17, 62, 65, 50, 25, 35, 12, 1, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.014888034657392154: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [62, 45, 65, 53, 44, 31, 18, 20, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.01070840197693575: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [63, 49, 51, 12, 42, 45, 23, 24, 5, 16, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.022864559932105236: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 17, 23, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.04881933003844042: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [24, 3, 28, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.1725700164744646: Closest Item: [3, 6, 28, 66]: Intersections: 3
+Solution: [1, 42, 28, 12, 40, 67]: Size: 6: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.04777594728171334: Closest Item: [1, 12, 21, 28]: Intersections: 3
+Solution: [42, 52, 65, 34, 40, 5, 8, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.0172371712734151: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 18, 59, 12, 25, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.018906409351219896: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 4, 1, 67]: Size: 4: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.05814113124656783: Closest Item: [4, 6, 22, 67]: Intersections: 2
+Run: 23
+Solution: [39, 5, 65, 57, 41, 24, 54, 33, 70]: Size: 9: Min Abs Distance: 1.0: Avg Frequency: 0.0027762523643907497: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [24, 13, 65, 20, 39, 38, 51, 1, 49, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.01523887973640857: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [16, 17, 1, 9, 12, 13, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.02365262414685809: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [9, 13, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.028487095002745745: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [5, 57, 29, 1, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.02475745927146257: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [20, 65, 50, 44, 34, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.014199419471248137: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [12, 17, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 14, 54, 1, 24, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.017115138202452865: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [25, 51, 65, 48, 52, 1, 63, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.016440142778693028: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 15, 9, 18, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019384953322350358: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [29, 23, 2, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.08583196046128501: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 1, 23, 26, 67]: Size: 5: Min Abs Distance: 0.0: Avg Frequency: 0.11998901702361339: Closest Item: [1, 12, 23, 26, 67]: Intersections: 5
+Solution: [1, 20, 12, 10, 15, 54, 5, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.01681768259198243: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [14, 1, 5, 10, 18, 62, 48, 47, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.011288059064006347: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [12, 14, 54, 1, 10, 47, 16, 8, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.022149002379644886: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [42, 39, 44, 37, 20, 51, 12, 1, 8, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.022597473915431085: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [18, 39, 65, 33, 29, 12, 24, 1, 53, 13, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.015600818730967003: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 24
+Solution: [42, 14, 34, 47, 70]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 0.0012081274025260845: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [52, 57, 65, 1, 14, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016565989383122825: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 35, 64, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01927512355848435: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [34, 24, 25, 1, 8, 9, 15, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.01997528830313015: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 35, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023956617243272926: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [13, 10, 8, 1, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.03313197876624565: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [19, 38, 65, 8, 9, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.02106377971287362: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 23, 32, 5, 62, 8, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.037513728720483246: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [50, 18, 42, 10, 13, 16, 12, 1, 14, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.01641954969796815: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [25, 49, 35, 62, 65, 54, 55, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.010891451583379097: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [60, 37, 51, 30, 14, 1, 12, 9, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.019952407102324734: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [2, 1, 12, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.07605711147721032: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 55, 42, 64, 24, 14, 5, 1, 10, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.010653487095002747: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 29, 12, 9, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.028995057660626034: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 49, 51, 12, 18, 39, 16, 1, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.019982915370065288: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 30, 26, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.09136463481603514: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 25
+Solution: [32, 60, 24, 20, 69]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 0.0016474464579901153: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 31, 32, 64, 38, 63, 57, 1, 34, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.011339923119165294: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [24, 51, 50, 5, 13, 30, 18, 57, 12, 52, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.009984523987818881: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 43, 5, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01971444261394838: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 56, 15, 10, 1, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.022083627520200832: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 54, 1, 14, 5, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.016474464579901153: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 12, 53, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.026359143327841845: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [31, 49, 50, 1, 13, 9, 15, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.015513454146073587: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 35, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023956617243272926: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [7, 3, 22, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.28741076331685883: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [65, 15, 49, 10, 17, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.013611045736251668: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [35, 54, 33, 41, 1, 23, 50, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.03215952773201537: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 65, 33, 51, 58, 8, 23, 17, 50, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.027924217462932454: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [8, 24, 64, 35, 51, 1, 5, 37, 32, 13, 19, 67]: Size: 12: Min Abs Distance: 0.8666666666666667: Avg Frequency: 0.018304960644334612: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 23, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.06102416254805052: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 45, 65, 57, 33, 13, 63, 56, 23, 32, 11, 67]: Size: 12: Min Abs Distance: 0.7857142857142857: Avg Frequency: 0.03205656232839099: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [49, 65, 64, 59, 1, 13, 42, 9, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.012721947647812558: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Run: 26
+Solution: [42, 50, 33, 20, 69]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 7.138934651290499E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 1, 56, 51, 12, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.03125572030020136: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 34, 1, 12, 26, 67]: Size: 6: Min Abs Distance: 0.4285714285714286: Avg Frequency: 0.07587406187076698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [52, 65, 19, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.01943986820428336: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [19, 65, 58, 15, 1, 5, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.014081744724248843: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [31, 1, 65, 19, 48, 13, 8, 17, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.019220208676551345: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 12, 1, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.0328116419549698: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 10, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 14, 8, 10, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.024345597656965038: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [14, 2, 3, 6, 66]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.23986820428336078: Closest Item: [3, 6, 22, 66]: Intersections: 3
+Solution: [15, 12, 53, 13, 65, 39, 20, 24, 46, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.008374519494783086: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [43, 65, 20, 39, 12, 44, 50, 11, 36, 23, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.031601018421446754: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [15, 55, 13, 9, 45, 56, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.017160900604063705: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 52, 58, 48, 12, 31, 23, 30, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.022942217340899386: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 26, 42, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.10378912685337727: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 56, 38, 1, 12, 26, 67]: Size: 7: Min Abs Distance: 0.5: Avg Frequency: 0.07021259904291206: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [65, 19, 23, 56, 37, 10, 8, 1, 47, 30, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.030278068993060757: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 43, 31, 29, 1, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.021926727857535105: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [43, 12, 63, 50, 5, 1, 9, 18, 11, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.02298187808896211: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 65, 23, 59, 24, 60, 8, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.037719659527732013: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 62, 29, 9, 50, 57, 10, 34, 33, 12, 67]: Size: 11: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.006165443562478159: Closest Item: [2, 12, 21, 29]: Intersections: 2
+Run: 27
+Solution: [19, 38, 25, 60, 70]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 2.1965952773201537E-4: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [65, 13, 8, 14, 1, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.027182866556836906: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 3, 6, 21, 66]: Size: 5: Min Abs Distance: 0.19999999999999996: Avg Frequency: 0.27177375068643606: Closest Item: [3, 6, 21, 66]: Intersections: 4
+Solution: [9, 1, 26, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.10420098846787479: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 24, 12, 1, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.02767710049423394: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 17, 48, 14, 1, 8, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.023299599905860204: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [8, 1, 39, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.0364497528830313: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 41, 15, 34, 13, 8, 1, 5, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.019921898834584176: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [17, 65, 64, 10, 55, 56, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.014895661724327292: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [24, 13, 29, 32, 1, 38, 12, 9, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.018915125999145768: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [10, 8, 14, 17, 1, 12, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.026006119086843967: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 52, 9, 5, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.02042833607907743: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [54, 61, 46, 47, 65, 49, 42, 9, 1, 15, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.012305925814986773: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [62, 49, 65, 14, 18, 47, 45, 1, 5, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.01015925315760571: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 10, 1, 23, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.04881933003844042: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [54, 11, 55, 17, 15, 1, 12, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.02807523338824822: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [3, 16, 7, 26, 66]: Size: 5: Min Abs Distance: 0.5: Avg Frequency: 0.21070840197693577: Closest Item: [3, 7, 27, 66]: Intersections: 3
+Solution: [8, 30, 20, 55, 40, 25, 1, 12, 5, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.018835804503020318: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 28
+Solution: [58, 8, 44, 49, 70]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 0.010104338275672708: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [10, 4, 1, 12, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.05370675453047776: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 41, 42, 5, 55, 59, 1, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.013454146073585941: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [11, 9, 1, 23, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.06781987918725974: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 17, 1, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 25, 9, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019604612850082373: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 17, 39, 15, 59, 1, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.013611045736251668: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [5, 65, 1, 34, 45, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.017115138202452865: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [34, 8, 39, 65, 10, 19, 14, 24, 1, 5, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.014602366332185113: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 43, 58, 1, 62, 50, 52, 59, 35, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.009884678747940693: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [31, 48, 57, 55, 17, 44, 8, 1, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.017542253950820673: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 37, 16, 12, 14, 5, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.020215540911587043: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 23, 22, 66]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.17140307523338824: Closest Item: [2, 12, 22, 28, 66]: Intersections: 3
+Solution: [10, 39, 33, 42, 52, 35, 1, 12, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.015254133870278849: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [13, 38, 1, 65, 23, 67]: Size: 6: Min Abs Distance: 0.625: Avg Frequency: 0.04352004393190554: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [46, 15, 65, 1, 24, 35, 12, 20, 5, 67]: Size: 10: Min Abs Distance: 0.75: Avg Frequency: 0.015788028555738607: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 21, 12, 67]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.11600768808347062: Closest Item: [1, 12, 21, 27]: Intersections: 3
+Solution: [65, 43, 1, 23, 13, 25, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.03745979446144191: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Run: 29
+Solution: [1, 42, 20, 67]: Size: 4: Min Abs Distance: 0.7142857142857143: Avg Frequency: 0.023819330038440417: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [38, 58, 62, 51, 69]: Size: 5: Min Abs Distance: 1.0: Avg Frequency: 0.006809445359692476: Closest Item: [2, 6, 22]: Intersections: 0
+Solution: [43, 14, 65, 1, 67]: Size: 5: Min Abs Distance: 0.75: Avg Frequency: 0.019110378912685338: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 24, 13, 65, 5, 67]: Size: 6: Min Abs Distance: 0.7777777777777778: Avg Frequency: 0.02045579352004393: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [1, 47, 65, 43, 60, 33, 67]: Size: 7: Min Abs Distance: 0.8: Avg Frequency: 0.014356319133913862: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [3, 12, 6, 66]: Size: 4: Min Abs Distance: 0.4: Avg Frequency: 0.2655134541460736: Closest Item: [3, 6, 22, 66]: Intersections: 3
+Solution: [2, 22, 12, 5, 66]: Size: 5: Min Abs Distance: 0.33333333333333337: Avg Frequency: 0.142613948380011: Closest Item: [2, 12, 22, 28, 66]: Intersections: 4
+Solution: [14, 1, 38, 5, 8, 25, 49, 67]: Size: 8: Min Abs Distance: 0.8181818181818181: Avg Frequency: 0.018808347062053817: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [65, 1, 12, 26, 52, 67]: Size: 6: Min Abs Distance: 0.4285714285714286: Avg Frequency: 0.07550796265788029: Closest Item: [1, 12, 23, 26, 67]: Intersections: 4
+Solution: [20, 1, 8, 12, 67]: Size: 5: Min Abs Distance: 0.5714285714285714: Avg Frequency: 0.036353651839648546: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 51, 37, 43, 59, 31, 46, 24, 13, 1, 67]: Size: 11: Min Abs Distance: 0.8571428571428572: Avg Frequency: 0.01722330387898757: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [47, 65, 46, 35, 12, 1, 67]: Size: 7: Min Abs Distance: 0.6666666666666667: Avg Frequency: 0.021299129206872207: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 57, 55, 50, 12, 1, 13, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.018774025260845692: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 64, 54, 40, 50, 15, 1, 33, 67]: Size: 9: Min Abs Distance: 0.8333333333333334: Avg Frequency: 0.011043992922081884: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2
+Solution: [53, 65, 43, 25, 34, 11, 12, 1, 67]: Size: 9: Min Abs Distance: 0.7272727272727273: Avg Frequency: 0.025596436634327903: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 9, 47, 29, 5, 23, 33, 67]: Size: 8: Min Abs Distance: 0.7: Avg Frequency: 0.03329214717188357: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [12, 29, 65, 1, 53, 15, 18, 25, 9, 32, 67]: Size: 11: Min Abs Distance: 0.7692307692307692: Avg Frequency: 0.013429184763616396: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [1, 30, 26, 67]: Size: 4: Min Abs Distance: 0.5: Avg Frequency: 0.1043382756727073: Closest Item: [1, 12, 23, 26, 67]: Intersections: 3
+Solution: [65, 59, 50, 63, 40, 58, 30, 17, 1, 67]: Size: 10: Min Abs Distance: 0.8461538461538461: Avg Frequency: 0.009774848984074684: Closest Item: [1, 12, 23, 26, 67]: Intersections: 2

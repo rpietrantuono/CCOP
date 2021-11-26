@@ -1,0 +1,19 @@
+# To set your configuration, modify this file (characters after '#' are comments)
+
+BaseDir = ./BENCHMARKS/CCOP1-MEDICAL  #Base directory. Customise it. 
+Ontology file with causes = OntologySources.txt  		  #Must be located in BaseDir
+Ontology file with effects = OntologyTargets.txt 		  #Must be located in BaseDir
+Input dataset file = medical.csv 			          #Input dataset. Must be located in BaseDir. Separator: ",". Spearator between multiple values 
+							  #in the same column (i.e., of the same variable) is "+" (e.g.: 14+17, 12, 10+3, 22). Note: the 							  #last column is assumed to be the effect to explain
+Knowledge base size = 364	  		  	  #Size of the knowledge base used for plausiblity and novelty assessment. 
+							  #Must be less than the size of the input dataset
+Mininimum solution size = 9	  			  #Minimum size of the solutions (must be greater than 0 and less than the "number of variables - 1",
+							  #namely number of columns -1, since the last column is the effect)
+Maximum solution size    = 13	  			  #Maximum size of the solutions (must be greater than 0 and than minimum source, and less than the 
+							  #"number of variables - 1", namely number of columns -1, since the last column is the effect)
+List of constraints "forbidden" = 			  # Format: x,y;w,z; ...  where x,y,w,z are numbers starting from 1 and representing the values we want to 								not appear together in a solution. 
+							  #These values are taken as the row number of the cause ontology file (e.g., if the fifth and eighth value 								of the ontology and the second and sixth value of the ontology must not appear together in a 									solution, here you should put 5,8;2,6)
+List of constraints "required" = 			  #Format: x,y;w,z; ...where x,y,w,z are numbers starting from 1 and representing the values we require to 								appear together in a solution. 
+							  #These values are taken as the row number of the cause ontology file (e.g., if the fifth and eighth value 								of the ontology and the second and sixth value of the ontology must appear together in a solution, 								here you should put 5,8;2,6)
+Seed = 1
+Unique = false						#Indicates if the columns'encoding use the same values or not (e.g., values of column 1: 1,2,3 ; values of columns 2: 1,2; ...=>unique=false. values of column 1: 1,2,3 ; values of columns 2: 4,5; ...=>unique=true). Default is true
